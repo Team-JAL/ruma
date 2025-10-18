@@ -1,9 +1,9 @@
 
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Summary from "./components/Summary";
-import Waitlist from "./components/waitlist";
-import Wireframe from "./components/wireframe";
+import Waitlist from "./components/Waitlist";
+import Wireframe from "./components/Wireframe";
 
 
 function App() {
