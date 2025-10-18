@@ -1,9 +1,9 @@
-# Property Evaluator — Landing Page
+# 🏠 Property Evaluator — Landing Page
 
 A lightweight, fast landing page for our upcoming Property Evaluator mobile app.
 This repo hosts the marketing site and waitlist sign-up details.
 
-Website Link: https://ruma.casa/
+:globe_with_meridians: Website Link: https://ruma.casa/
 
 ## ✉️ Contact
 
