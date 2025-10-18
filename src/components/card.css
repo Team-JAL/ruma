@@ -1,0 +1,43 @@
+.card{
+    background: color-mix(in oklch, var(--primary) 10%, transparent);
+    padding: 2rem;
+    text-align: center;
+    width: 500px;
+    height: 300px;
+    border-radius: 1rem;
+}
+
+.card img{
+    width: 80px;
+
+}
+
+.card h5{
+    text-decoration: underline;
+    text-decoration-color: var(--accent);
+    text-decoration-thickness: 0.6rem;
+}
+
+.card p {
+    text-align: start;
+}
+
+@media (max-width: 768px) {
+  .card {
+    width: 90%;                /* shrink to fit mobile */
+    height: auto;              /* let height grow naturally */
+    padding: 1.5rem;
+  }
+
+  .card img {
+    width: 60px;               /* slightly smaller icon */
+  }
+
+  .card h5 {
+    font-size: 1.1rem;
+  }
+
+  .card p {
+    text-align: center;        /* center text for mobile */
+  }
+}

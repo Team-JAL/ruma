@@ -1,0 +1,71 @@
+.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap:1rem;
+    min-height: 100vh;
+}
+
+.hero_left{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+}
+
+.hero_image {
+  width: 100%;
+  max-width: 800px;
+}
+
+.hero_action{
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    align-items: baseline;
+    
+}
+
+
+.hero_button {
+    color: var(--text);
+    background-color: var(--primary);
+    border: none;
+    border-radius: 8px;
+    padding: 1.2rem 2rem 1.2rem 2rem;
+    margin-top: 2rem;
+    font-size: 16px;
+    width: max-content;
+    letter-spacing: 1px;
+
+}
+
+.hero_button:hover {
+  background-color: var(--accent);
+  cursor: pointer;
+  transform: scale(1.03);
+  transition: all 0.3s ease;
+}
+
+@media (max-width: 768px) {
+  .hero {
+    flex-direction: column;     /* Stack image and text */
+    text-align: center;         /* Center-align text */
+    gap: 2rem;
+    min-height: auto;           /* Let height adjust */
+  }
+
+  .hero_left {
+    width: 100%;                /* Take full width */
+    align-items: center;
+  }
+
+  .hero_action {
+    flex-direction: column;     /* Stack buttons vertically */
+    gap: 1rem;
+  }
+
+  .hero_image {
+    max-width: 100%;             /* Shrink image a bit */
+  }
+}
