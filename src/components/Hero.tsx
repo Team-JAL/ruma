@@ -14,7 +14,8 @@ const Hero = () => {
           <h5>Compare, calculate, and close smarter.</h5>
           <p>
             Estimate fees (stamp duty, lawyer, etc.), compare properties by
-            ROI/yield & KPIs, and stack loan offers to pick the best deal—fast.
+            ROI/yield & KPIs, and stack loan offers to pick the best deal.
+            Launching soon in Malaysia.
           </p>
 
             <div className="hero_action">
