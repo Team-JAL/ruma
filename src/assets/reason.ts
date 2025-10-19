@@ -36,7 +36,7 @@ export const reasons: Reason[] = [
 export const previews = [
   {
     title: "No subscriptions",
-    desc: "One-time purchase, lifetime acces",
+    desc: "One-time purchase, lifetime access",
   },
 
   {
