@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="footer" id="footer-section">
       <p>
-        Made with ❤️ by <strong>Team JAL</strong> &nbsp;|&nbsp; Ruma © {new Date().getFullYear()}
+        Made with ❤️ by <strong>Team AJILE</strong> &nbsp;|&nbsp; Ruma © {new Date().getFullYear()}
       </p>
       <p className="footer-credit">
         <a

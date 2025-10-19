@@ -9,7 +9,7 @@ const Waitlist = () => {
     e.preventDefault();
 
     try {
-      const res = await fetch("https://formsubmit.co/ajax/teamJAL@outlook.com", {
+      const res = await fetch("https://formsubmit.co/ajax/inbox@ajile.team", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

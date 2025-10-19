@@ -10,7 +10,7 @@ const Hero = () => {
       <div className="hero">
         <div className="hero_left">
           <h1>Ruma</h1>
-          <p>Powered by Team JAL</p>
+          <p>Powered by Team AJILE</p>
           <h5>Compare, calculate, and close smarter.</h5>
           <p>
             Estimate fees (stamp duty, lawyer, etc.), compare properties by
