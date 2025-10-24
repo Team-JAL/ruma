@@ -8,4 +8,4 @@ This repo hosts the marketing site and waitlist sign-up details.
 ## ✉️ Contact
 
 Waitlist & questions:
-teamJAL@outlook.com
+inbox@ajile.team
