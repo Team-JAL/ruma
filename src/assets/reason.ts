@@ -35,20 +35,20 @@ export const reasons: Reason[] = [
 
 export const previews = [
   {
-    title: "No subscriptions",
-    desc: "One-time purchase, lifetime access",
+    title: "Deal pipeline",
+    desc: "Track intake, diligence, and offer stages in one queue",
   },
 
   {
-    title: "Android & iOS",
-    desc: "Native, mobile-first experience",
+    title: "Scenario board",
+    desc: "Save fee stacks & loan mixes as reusable snapshots",
   },
   {
-    title: "For beginners & pros",
-    desc: "Investors and real-estate agents",
+    title: "Collaboration ready",
+    desc: "Mention teammates and ship read-only summaries",
   },
   {
-    title: "Privacy-first & offline-capable",
-    desc: " Your data stays on device",
+    title: "Audit-friendly log",
+    desc: "Every change is timestamped for compliance",
   },
 ];

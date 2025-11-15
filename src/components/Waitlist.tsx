@@ -30,22 +30,34 @@ const Waitlist = () => {
   };
 
   return (
-    <section className="waitlist">
+    <section className="waitlist" id="waitlist-section">
+      <div className="waitlist_content">
+        <span className="waitlist_badge">Early access</span>
+        <h2>Be first to know when we open Ruma to the public.</h2>
+        <p>
+          We're polishing the final workflows with a small group of investors and
+          agents. Drop your email to get product updates and an invite.
+        </p>
+      </div>
 
-        <h2>Interested ?</h2>
       <form onSubmit={handleSubmit} className="waitlist_form">
-        <input
-          type="email"
-          placeholder="Enter your email"
-          value={email}
-          onChange={(e) => setEmail(e.target.value)}
-          required
-        />
-        <button type="submit">Get Notified</button>
+        <div className="waitlist_form-wrapper">
+          <input
+            type="email"
+            placeholder="Email address"
+            value={email}
+            onChange={(e) => setEmail(e.target.value)}
+            required
+          />
+          <button type="submit">Notify me</button>
+        </div>
+        {status === "success" && <p className="status success">You're on the list 🎉</p>}
+        {status === "error" && (
+          <p className="status error">Something went wrong. Try again.</p>
+        )}
       </form>
 
-      {status === "success" && <p className="success">You're on the list 🎉</p>}
-      {status === "error" && <p className="error">Something went wrong. Try again.</p>}
+      <small>No spam--just beta invites and progress notes.</small>
     </section>
   );
 };
