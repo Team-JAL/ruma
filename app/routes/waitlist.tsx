@@ -28,7 +28,9 @@ const CheckIcon = () => (
   </svg>
 );
 
-const FORMSUBMIT_ENDPOINT = "https://formsubmit.co/ajax/inbox@ajile.team";
+const WEB3FORMS_ENDPOINT = "https://api.web3forms.com/submit";
+// Public by design — this access key only routes submissions to inbox@ajile.team.
+const WEB3FORMS_ACCESS_KEY = "38abe58c-9b9c-4bf0-b25a-04bb16acb121";
 
 export default function WaitlistPage() {
   const [submitted, setSubmitted] = useState(false);
@@ -44,7 +46,9 @@ export default function WaitlistPage() {
     const payload = Object.fromEntries(formData.entries()) as Record<string, string>;
 
     const name = (payload.name || "").toString().trim();
-    payload._subject = name
+    payload.access_key = WEB3FORMS_ACCESS_KEY;
+    payload.from_name = "Ruma Waitlist";
+    payload.subject = name
       ? `New Ruma waitlist signup — ${name}`
       : "New Ruma waitlist signup";
 
@@ -52,7 +56,7 @@ export default function WaitlistPage() {
     setError(null);
 
     try {
-      const res = await fetch(FORMSUBMIT_ENDPOINT, {
+      const res = await fetch(WEB3FORMS_ENDPOINT, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -109,10 +113,9 @@ export default function WaitlistPage() {
             </div>
 
             <form className="wf-form" onSubmit={handleSubmit}>
-              <input type="hidden" name="_template" value="table" />
               <input
-                type="text"
-                name="_honey"
+                type="checkbox"
+                name="botcheck"
                 tabIndex={-1}
                 autoComplete="off"
                 style={{ position: "absolute", left: "-9999px", width: 1, height: 1, opacity: 0 }}
