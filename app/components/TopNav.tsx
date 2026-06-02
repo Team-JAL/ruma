@@ -37,9 +37,9 @@ const TopNav = () => {
             <NavItem key={l.label} link={l} />
           ))}
         </div>
-        <Link to="/waitlist" className="hero-nav-cta" onClick={closeMenu}>
-          Get early access →
-        </Link>
+        <a href="https://app.ruma.casa" className="hero-nav-cta" onClick={closeMenu}>
+          Launch app →
+        </a>
         <button
           type="button"
           className="hero-nav-toggle"
@@ -61,9 +61,9 @@ const TopNav = () => {
           {navLinks.map((l) => (
             <NavItem key={l.label} link={l} onClick={closeMenu} />
           ))}
-          <Link to="/waitlist" className="hero-nav-mobile-cta" onClick={closeMenu}>
-            Get early access →
-          </Link>
+          <a href="https://app.ruma.casa" className="hero-nav-mobile-cta" onClick={closeMenu}>
+            Launch app →
+          </a>
         </div>
       )}
     </nav>
