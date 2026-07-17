@@ -2,6 +2,7 @@ import Hero from "./components/Hero";
 import TrustStrip from "./components/TrustStrip";
 import Features from "./components/Features";
 import Walkthrough from "./components/Walkthrough";
+import MarketMap from "./components/MarketMap";
 import HowItWorks from "./components/HowItWorks";
 import Metrics from "./components/Metrics";
 import Testimonials from "./components/Testimonials";
@@ -20,6 +21,7 @@ function App() {
       {SHOW_TRUST_STRIP && <TrustStrip />}
       <Features />
       <Walkthrough />
+      <MarketMap />
       <HowItWorks />
       {SHOW_METRICS && <Metrics />}
       {SHOW_TESTIMONIALS && <Testimonials />}
