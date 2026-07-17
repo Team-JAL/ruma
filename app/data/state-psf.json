@@ -1,102 +1,397 @@
 {
-  "category": "Residential Apartment",
   "asOf": "2026-03",
-  "states": [
-    {
-      "name": "WP Kuala Lumpur",
-      "psfNow": 587,
-      "txnCount": 29216,
-      "priceMedian": 560000
-    },
-    {
-      "name": "WP Putrajaya",
-      "psfNow": 477,
-      "txnCount": 442,
-      "priceMedian": 400000
-    },
-    {
-      "name": "Pahang",
-      "psfNow": 455,
-      "txnCount": 1329,
-      "priceMedian": 340000
-    },
-    {
-      "name": "Johor",
-      "psfNow": 429,
-      "txnCount": 19090,
-      "priceMedian": 380000
-    },
-    {
-      "name": "Pulau Pinang",
-      "psfNow": 423,
-      "txnCount": 20204,
-      "priceMedian": 320000
-    },
-    {
-      "name": "Sabah",
-      "psfNow": 384,
-      "txnCount": 2625,
-      "priceMedian": 265000
-    },
-    {
-      "name": "Sarawak",
-      "psfNow": 361,
-      "txnCount": 2177,
-      "priceMedian": 340000
-    },
-    {
-      "name": "Kelantan",
-      "psfNow": 361,
-      "txnCount": 208,
-      "priceMedian": 234000
-    },
-    {
-      "name": "Selangor",
-      "psfNow": 358,
-      "txnCount": 46496,
-      "priceMedian": 295000
-    },
-    {
-      "name": "Perak",
-      "psfNow": 256,
-      "txnCount": 2852,
-      "priceMedian": 222000
-    },
-    {
-      "name": "WP Labuan",
-      "psfNow": 246,
-      "txnCount": 117,
-      "priceMedian": 185000
-    },
-    {
-      "name": "Terengganu",
-      "psfNow": 245,
-      "txnCount": 632,
-      "priceMedian": 225000
-    },
-    {
-      "name": "Melaka",
-      "psfNow": 237,
-      "txnCount": 2376,
-      "priceMedian": 185000
-    },
-    {
-      "name": "Kedah",
-      "psfNow": 218,
-      "txnCount": 493,
-      "priceMedian": 140000
-    },
-    {
-      "name": "Negeri Sembilan",
-      "psfNow": 191,
-      "txnCount": 2791,
-      "priceMedian": 130000
-    },
-    {
-      "name": "Perlis",
-      "psfNow": 147,
-      "txnCount": 11,
-      "priceMedian": 50000
-    }
-  ]
+  "categories": {
+    "Residential Apartment": [
+      {
+        "name": "WP Kuala Lumpur",
+        "psfNow": 587,
+        "txnCount": 29216,
+        "priceMedian": 560000
+      },
+      {
+        "name": "WP Putrajaya",
+        "psfNow": 477,
+        "txnCount": 442,
+        "priceMedian": 400000
+      },
+      {
+        "name": "Pahang",
+        "psfNow": 455,
+        "txnCount": 1329,
+        "priceMedian": 340000
+      },
+      {
+        "name": "Johor",
+        "psfNow": 429,
+        "txnCount": 19090,
+        "priceMedian": 380000
+      },
+      {
+        "name": "Pulau Pinang",
+        "psfNow": 423,
+        "txnCount": 20204,
+        "priceMedian": 320000
+      },
+      {
+        "name": "Sabah",
+        "psfNow": 384,
+        "txnCount": 2625,
+        "priceMedian": 265000
+      },
+      {
+        "name": "Sarawak",
+        "psfNow": 361,
+        "txnCount": 2177,
+        "priceMedian": 340000
+      },
+      {
+        "name": "Kelantan",
+        "psfNow": 361,
+        "txnCount": 208,
+        "priceMedian": 234000
+      },
+      {
+        "name": "Selangor",
+        "psfNow": 358,
+        "txnCount": 46496,
+        "priceMedian": 295000
+      },
+      {
+        "name": "Perak",
+        "psfNow": 256,
+        "txnCount": 2852,
+        "priceMedian": 222000
+      },
+      {
+        "name": "WP Labuan",
+        "psfNow": 246,
+        "txnCount": 117,
+        "priceMedian": 185000
+      },
+      {
+        "name": "Terengganu",
+        "psfNow": 245,
+        "txnCount": 632,
+        "priceMedian": 225000
+      },
+      {
+        "name": "Melaka",
+        "psfNow": 237,
+        "txnCount": 2376,
+        "priceMedian": 185000
+      },
+      {
+        "name": "Kedah",
+        "psfNow": 218,
+        "txnCount": 493,
+        "priceMedian": 140000
+      },
+      {
+        "name": "Negeri Sembilan",
+        "psfNow": 191,
+        "txnCount": 2791,
+        "priceMedian": 130000
+      },
+      {
+        "name": "Perlis",
+        "psfNow": 147,
+        "txnCount": 11,
+        "priceMedian": 50000
+      }
+    ],
+    "Residential Landed": [
+      {
+        "name": "WP Kuala Lumpur",
+        "psfNow": 642,
+        "txnCount": 6611,
+        "priceMedian": 980000
+      },
+      {
+        "name": "WP Putrajaya",
+        "psfNow": 598,
+        "txnCount": 343,
+        "priceMedian": 1332000
+      },
+      {
+        "name": "Selangor",
+        "psfNow": 456,
+        "txnCount": 73601,
+        "priceMedian": 590000
+      },
+      {
+        "name": "WP Labuan",
+        "psfNow": 413,
+        "txnCount": 263,
+        "priceMedian": 490000
+      },
+      {
+        "name": "Johor",
+        "psfNow": 395,
+        "txnCount": 62484,
+        "priceMedian": 486000
+      },
+      {
+        "name": "Sabah",
+        "psfNow": 386,
+        "txnCount": 4953,
+        "priceMedian": 415000
+      },
+      {
+        "name": "Pulau Pinang",
+        "psfNow": 385,
+        "txnCount": 14749,
+        "priceMedian": 490000
+      },
+      {
+        "name": "Sarawak",
+        "psfNow": 375,
+        "txnCount": 10119,
+        "priceMedian": 395000
+      },
+      {
+        "name": "Negeri Sembilan",
+        "psfNow": 326,
+        "txnCount": 22824,
+        "priceMedian": 360000
+      },
+      {
+        "name": "Kedah",
+        "psfNow": 305,
+        "txnCount": 24241,
+        "priceMedian": 280000
+      },
+      {
+        "name": "Terengganu",
+        "psfNow": 302,
+        "txnCount": 9400,
+        "priceMedian": 330000
+      },
+      {
+        "name": "Kelantan",
+        "psfNow": 296,
+        "txnCount": 6576,
+        "priceMedian": 305000
+      },
+      {
+        "name": "Pahang",
+        "psfNow": 286,
+        "txnCount": 17757,
+        "priceMedian": 275000
+      },
+      {
+        "name": "Melaka",
+        "psfNow": 285,
+        "txnCount": 17516,
+        "priceMedian": 295000
+      },
+      {
+        "name": "Perlis",
+        "psfNow": 282,
+        "txnCount": 2027,
+        "priceMedian": 260000
+      },
+      {
+        "name": "Perak",
+        "psfNow": 276,
+        "txnCount": 39643,
+        "priceMedian": 276000
+      }
+    ],
+    "Commercial": [
+      {
+        "name": "WP Putrajaya",
+        "psfNow": 702,
+        "txnCount": 73,
+        "priceMedian": 2500000
+      },
+      {
+        "name": "WP Kuala Lumpur",
+        "psfNow": 678,
+        "txnCount": 4628,
+        "priceMedian": 1050000
+      },
+      {
+        "name": "WP Labuan",
+        "psfNow": 445,
+        "txnCount": 40,
+        "priceMedian": 1092500
+      },
+      {
+        "name": "Selangor",
+        "psfNow": 410,
+        "txnCount": 13825,
+        "priceMedian": 806000
+      },
+      {
+        "name": "Sabah",
+        "psfNow": 379,
+        "txnCount": 1162,
+        "priceMedian": 800000
+      },
+      {
+        "name": "Pulau Pinang",
+        "psfNow": 316,
+        "txnCount": 2980,
+        "priceMedian": 650000
+      },
+      {
+        "name": "Sarawak",
+        "psfNow": 292,
+        "txnCount": 1371,
+        "priceMedian": 880000
+      },
+      {
+        "name": "Johor",
+        "psfNow": 267,
+        "txnCount": 8554,
+        "priceMedian": 800000
+      },
+      {
+        "name": "Pahang",
+        "psfNow": 252,
+        "txnCount": 1014,
+        "priceMedian": 717500
+      },
+      {
+        "name": "Perlis",
+        "psfNow": 233,
+        "txnCount": 222,
+        "priceMedian": 600000
+      },
+      {
+        "name": "Terengganu",
+        "psfNow": 226,
+        "txnCount": 308,
+        "priceMedian": 638500
+      },
+      {
+        "name": "Kelantan",
+        "psfNow": 224,
+        "txnCount": 378,
+        "priceMedian": 580000
+      },
+      {
+        "name": "Negeri Sembilan",
+        "psfNow": 215,
+        "txnCount": 2107,
+        "priceMedian": 625000
+      },
+      {
+        "name": "Melaka",
+        "psfNow": 205,
+        "txnCount": 1599,
+        "priceMedian": 565000
+      },
+      {
+        "name": "Kedah",
+        "psfNow": 205,
+        "txnCount": 1710,
+        "priceMedian": 500000
+      },
+      {
+        "name": "Perak",
+        "psfNow": 200,
+        "txnCount": 3396,
+        "priceMedian": 540000
+      }
+    ],
+    "Industrial": [
+      {
+        "name": "WP Kuala Lumpur",
+        "psfNow": 669,
+        "txnCount": 270,
+        "priceMedian": 1930000
+      },
+      {
+        "name": "Selangor",
+        "psfNow": 537,
+        "txnCount": 4890,
+        "priceMedian": 1500000
+      },
+      {
+        "name": "WP Putrajaya",
+        "psfNow": 528,
+        "txnCount": 3,
+        "priceMedian": 1200000
+      },
+      {
+        "name": "Pulau Pinang",
+        "psfNow": 508,
+        "txnCount": 796,
+        "priceMedian": 1609500
+      },
+      {
+        "name": "Johor",
+        "psfNow": 500,
+        "txnCount": 1965,
+        "priceMedian": 1500000
+      },
+      {
+        "name": "Sarawak",
+        "psfNow": 454,
+        "txnCount": 429,
+        "priceMedian": 1000000
+      },
+      {
+        "name": "WP Labuan",
+        "psfNow": 451,
+        "txnCount": 19,
+        "priceMedian": 1650000
+      },
+      {
+        "name": "Sabah",
+        "psfNow": 448,
+        "txnCount": 458,
+        "priceMedian": 1185000
+      },
+      {
+        "name": "Perlis",
+        "psfNow": 290,
+        "txnCount": 34,
+        "priceMedian": 550000
+      },
+      {
+        "name": "Kedah",
+        "psfNow": 273,
+        "txnCount": 344,
+        "priceMedian": 825000
+      },
+      {
+        "name": "Melaka",
+        "psfNow": 264,
+        "txnCount": 437,
+        "priceMedian": 800000
+      },
+      {
+        "name": "Negeri Sembilan",
+        "psfNow": 259,
+        "txnCount": 672,
+        "priceMedian": 650000
+      },
+      {
+        "name": "Terengganu",
+        "psfNow": 248,
+        "txnCount": 20,
+        "priceMedian": 665000
+      },
+      {
+        "name": "Kelantan",
+        "psfNow": 248,
+        "txnCount": 13,
+        "priceMedian": 1100000
+      },
+      {
+        "name": "Perak",
+        "psfNow": 227,
+        "txnCount": 699,
+        "priceMedian": 600000
+      },
+      {
+        "name": "Pahang",
+        "psfNow": 215,
+        "txnCount": 160,
+        "priceMedian": 565000
+      }
+    ]
+  }
 }

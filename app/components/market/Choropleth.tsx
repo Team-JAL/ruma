@@ -124,7 +124,7 @@ const Choropleth = ({
                 </p>
               )}
               <p className="choropleth-tip-lock">
-                District prices, trends & ranges — 🔒 Free account
+                Tap for district prices · mukims & trends 🔒 Free account
               </p>
             </>
           ) : (

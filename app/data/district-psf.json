@@ -1,0 +1,1802 @@
+{
+  "Residential Apartment": {
+    "Johor": [
+      {
+        "name": "Johor Bahru",
+        "psfNow": 437
+      },
+      {
+        "name": "Kulai",
+        "psfNow": 269
+      },
+      {
+        "name": "Kota Tinggi",
+        "psfNow": 262
+      },
+      {
+        "name": "Muar",
+        "psfNow": 203
+      },
+      {
+        "name": "Tangkak",
+        "psfNow": 185
+      },
+      {
+        "name": "Batu Pahat",
+        "psfNow": 165
+      },
+      {
+        "name": "Segamat",
+        "psfNow": 162
+      },
+      {
+        "name": "Pontian",
+        "psfNow": 160
+      },
+      {
+        "name": "Kluang",
+        "psfNow": 119
+      }
+    ],
+    "Kedah": [
+      {
+        "name": "Langkawi",
+        "psfNow": 262
+      },
+      {
+        "name": "Kubang Pasu",
+        "psfNow": 261
+      },
+      {
+        "name": "Kulim",
+        "psfNow": 229
+      },
+      {
+        "name": "Kuala Muda",
+        "psfNow": 189
+      },
+      {
+        "name": "Kota Setar",
+        "psfNow": 168
+      }
+    ],
+    "Kelantan": [
+      {
+        "name": "Kota Bahru",
+        "psfNow": 362
+      },
+      {
+        "name": "Kuala Krai",
+        "psfNow": 268
+      }
+    ],
+    "Melaka": [
+      {
+        "name": "Melaka Tengah",
+        "psfNow": 244
+      },
+      {
+        "name": "Alor Gajah",
+        "psfNow": 130
+      }
+    ],
+    "Negeri Sembilan": [
+      {
+        "name": "Seremban",
+        "psfNow": 200
+      },
+      {
+        "name": "Port Dickson",
+        "psfNow": 172
+      },
+      {
+        "name": "Kuala Pilah",
+        "psfNow": 137
+      },
+      {
+        "name": "Jempol",
+        "psfNow": 130
+      }
+    ],
+    "Pahang": [
+      {
+        "name": "Daerah Kecil Genting",
+        "psfNow": 988
+      },
+      {
+        "name": "Kuantan",
+        "psfNow": 634
+      },
+      {
+        "name": "Bentong",
+        "psfNow": 570
+      },
+      {
+        "name": "Rompin",
+        "psfNow": 420
+      },
+      {
+        "name": "Cameron Highland",
+        "psfNow": 398
+      },
+      {
+        "name": "Raub",
+        "psfNow": 363
+      },
+      {
+        "name": "Bera",
+        "psfNow": 339
+      },
+      {
+        "name": "Lipis",
+        "psfNow": 210
+      },
+      {
+        "name": "Temerloh",
+        "psfNow": 164
+      }
+    ],
+    "Perak": [
+      {
+        "name": "Perak Tengah",
+        "psfNow": 369
+      },
+      {
+        "name": "Kampar",
+        "psfNow": 281
+      },
+      {
+        "name": "Kinta",
+        "psfNow": 260
+      },
+      {
+        "name": "Larut Matang",
+        "psfNow": 244
+      },
+      {
+        "name": "Manjung",
+        "psfNow": 244
+      },
+      {
+        "name": "Muallim",
+        "psfNow": 223
+      },
+      {
+        "name": "Kuala Kangsar",
+        "psfNow": 167
+      },
+      {
+        "name": "Hilir Perak",
+        "psfNow": 165
+      },
+      {
+        "name": "Kerian",
+        "psfNow": 136
+      }
+    ],
+    "Perlis": [
+      {
+        "name": "Perlis",
+        "psfNow": 104
+      }
+    ],
+    "Pulau Pinang": [
+      {
+        "name": "Timur Laut",
+        "psfNow": 483
+      },
+      {
+        "name": "Barat Daya",
+        "psfNow": 475
+      },
+      {
+        "name": "Seberang Perai Utara",
+        "psfNow": 299
+      },
+      {
+        "name": "Seberang Perai Selatan",
+        "psfNow": 269
+      },
+      {
+        "name": "Seberang Perai Tengah",
+        "psfNow": 268
+      }
+    ],
+    "Sabah": [
+      {
+        "name": "Penampang",
+        "psfNow": 441
+      },
+      {
+        "name": "Kota Kinabalu",
+        "psfNow": 422
+      },
+      {
+        "name": "Tawau",
+        "psfNow": 383
+      },
+      {
+        "name": "Lahad Datu",
+        "psfNow": 349
+      },
+      {
+        "name": "Putatan",
+        "psfNow": 329
+      },
+      {
+        "name": "Tuaran",
+        "psfNow": 272
+      },
+      {
+        "name": "Sandakan",
+        "psfNow": 270
+      },
+      {
+        "name": "Papar",
+        "psfNow": 253
+      }
+    ],
+    "Sarawak": [
+      {
+        "name": "Bahagian Sibu",
+        "psfNow": 413
+      },
+      {
+        "name": "Bahagian Bintulu",
+        "psfNow": 380
+      },
+      {
+        "name": "Bahagian Kuching",
+        "psfNow": 380
+      },
+      {
+        "name": "Bahagian Miri",
+        "psfNow": 354
+      },
+      {
+        "name": "Bahagian Limbang",
+        "psfNow": 320
+      },
+      {
+        "name": "Bahagian Sarikei",
+        "psfNow": 274
+      },
+      {
+        "name": "Bahagian Samarahan",
+        "psfNow": 264
+      },
+      {
+        "name": "Bahagian Kapit",
+        "psfNow": 260
+      },
+      {
+        "name": "Bahagian Sri Aman",
+        "psfNow": 128
+      }
+    ],
+    "Selangor": [
+      {
+        "name": "Sepang",
+        "psfNow": 433
+      },
+      {
+        "name": "Kuala Langat",
+        "psfNow": 432
+      },
+      {
+        "name": "Petaling",
+        "psfNow": 410
+      },
+      {
+        "name": "Sabak Bernam",
+        "psfNow": 351
+      },
+      {
+        "name": "Hulu Langat",
+        "psfNow": 331
+      },
+      {
+        "name": "Gombak",
+        "psfNow": 313
+      },
+      {
+        "name": "Klang",
+        "psfNow": 299
+      },
+      {
+        "name": "Kuala Selangor",
+        "psfNow": 278
+      },
+      {
+        "name": "Hulu Selangor",
+        "psfNow": 141
+      }
+    ],
+    "Terengganu": [
+      {
+        "name": "Kuala Terengganu",
+        "psfNow": 281
+      },
+      {
+        "name": "Kemaman",
+        "psfNow": 76
+      }
+    ],
+    "WP Kuala Lumpur": [
+      {
+        "name": "Kuala Lumpur",
+        "psfNow": 587
+      }
+    ],
+    "WP Labuan": [
+      {
+        "name": "Labuan",
+        "psfNow": 244
+      }
+    ],
+    "WP Putrajaya": [
+      {
+        "name": "Putrajaya",
+        "psfNow": 477
+      }
+    ]
+  },
+  "Residential Landed": {
+    "Johor": [
+      {
+        "name": "Johor Bahru",
+        "psfNow": 446
+      },
+      {
+        "name": "Kulai",
+        "psfNow": 399
+      },
+      {
+        "name": "Muar",
+        "psfNow": 380
+      },
+      {
+        "name": "Pontian",
+        "psfNow": 369
+      },
+      {
+        "name": "Kota Tinggi",
+        "psfNow": 323
+      },
+      {
+        "name": "Batu Pahat",
+        "psfNow": 314
+      },
+      {
+        "name": "Tangkak",
+        "psfNow": 301
+      },
+      {
+        "name": "Kluang",
+        "psfNow": 276
+      },
+      {
+        "name": "Mersing",
+        "psfNow": 275
+      },
+      {
+        "name": "Segamat",
+        "psfNow": 240
+      }
+    ],
+    "Kedah": [
+      {
+        "name": "Bandar Baru",
+        "psfNow": 384
+      },
+      {
+        "name": "Kulim",
+        "psfNow": 343
+      },
+      {
+        "name": "Kota Setar",
+        "psfNow": 336
+      },
+      {
+        "name": "Pendang",
+        "psfNow": 317
+      },
+      {
+        "name": "Pokok Sena",
+        "psfNow": 302
+      },
+      {
+        "name": "Kubang Pasu",
+        "psfNow": 296
+      },
+      {
+        "name": "Yan",
+        "psfNow": 294
+      },
+      {
+        "name": "Langkawi",
+        "psfNow": 288
+      },
+      {
+        "name": "Kuala Muda",
+        "psfNow": 283
+      },
+      {
+        "name": "Baling",
+        "psfNow": 270
+      },
+      {
+        "name": "Padang Terap",
+        "psfNow": 267
+      },
+      {
+        "name": "Sik",
+        "psfNow": 265
+      }
+    ],
+    "Kelantan": [
+      {
+        "name": "Kota Bahru",
+        "psfNow": 317
+      },
+      {
+        "name": "Tumpat",
+        "psfNow": 314
+      },
+      {
+        "name": "Bachok",
+        "psfNow": 307
+      },
+      {
+        "name": "Machang",
+        "psfNow": 289
+      },
+      {
+        "name": "Tanah Merah",
+        "psfNow": 282
+      },
+      {
+        "name": "Kuala Krai",
+        "psfNow": 280
+      },
+      {
+        "name": "Gua Musang",
+        "psfNow": 279
+      },
+      {
+        "name": "Pasir Puteh",
+        "psfNow": 267
+      },
+      {
+        "name": "Jeli",
+        "psfNow": 256
+      },
+      {
+        "name": "Pasir Mas",
+        "psfNow": 253
+      }
+    ],
+    "Melaka": [
+      {
+        "name": "Melaka Tengah",
+        "psfNow": 308
+      },
+      {
+        "name": "Alor Gajah",
+        "psfNow": 266
+      },
+      {
+        "name": "Jasin",
+        "psfNow": 256
+      }
+    ],
+    "Negeri Sembilan": [
+      {
+        "name": "Seremban",
+        "psfNow": 346
+      },
+      {
+        "name": "Port Dickson",
+        "psfNow": 302
+      },
+      {
+        "name": "Jempol",
+        "psfNow": 287
+      },
+      {
+        "name": "Kuala Pilah",
+        "psfNow": 281
+      },
+      {
+        "name": "Jelebu",
+        "psfNow": 276
+      },
+      {
+        "name": "Rembau",
+        "psfNow": 275
+      },
+      {
+        "name": "Tampin",
+        "psfNow": 256
+      }
+    ],
+    "Pahang": [
+      {
+        "name": "Cameron Highland",
+        "psfNow": 554
+      },
+      {
+        "name": "Kuantan",
+        "psfNow": 299
+      },
+      {
+        "name": "Raub",
+        "psfNow": 293
+      },
+      {
+        "name": "Bentong",
+        "psfNow": 289
+      },
+      {
+        "name": "Daerah Kecil Muadzam Shah",
+        "psfNow": 284
+      },
+      {
+        "name": "Pekan",
+        "psfNow": 284
+      },
+      {
+        "name": "DAERAH KECIL MUADZAM SHAH",
+        "psfNow": 281
+      },
+      {
+        "name": "Maran",
+        "psfNow": 271
+      },
+      {
+        "name": "Jerantut",
+        "psfNow": 265
+      },
+      {
+        "name": "Temerloh",
+        "psfNow": 261
+      },
+      {
+        "name": "Bera",
+        "psfNow": 248
+      },
+      {
+        "name": "Lipis",
+        "psfNow": 243
+      },
+      {
+        "name": "Rompin",
+        "psfNow": 161
+      }
+    ],
+    "Perak": [
+      {
+        "name": "Kerian",
+        "psfNow": 307
+      },
+      {
+        "name": "Muallim",
+        "psfNow": 290
+      },
+      {
+        "name": "Larut Matang",
+        "psfNow": 288
+      },
+      {
+        "name": "Kinta",
+        "psfNow": 279
+      },
+      {
+        "name": "Manjung",
+        "psfNow": 278
+      },
+      {
+        "name": "Selama",
+        "psfNow": 273
+      },
+      {
+        "name": "Bagan Datuk",
+        "psfNow": 271
+      },
+      {
+        "name": "Batang Padang",
+        "psfNow": 271
+      },
+      {
+        "name": "Hilir Perak",
+        "psfNow": 263
+      },
+      {
+        "name": "Hulu Perak",
+        "psfNow": 262
+      },
+      {
+        "name": "Perak Tengah",
+        "psfNow": 261
+      },
+      {
+        "name": "Kuala Kangsar",
+        "psfNow": 255
+      },
+      {
+        "name": "Kampar",
+        "psfNow": 254
+      }
+    ],
+    "Perlis": [
+      {
+        "name": "Perlis",
+        "psfNow": 282
+      }
+    ],
+    "Pulau Pinang": [
+      {
+        "name": "Timur Laut",
+        "psfNow": 782
+      },
+      {
+        "name": "Barat Daya",
+        "psfNow": 538
+      },
+      {
+        "name": "Seberang Perai Tengah",
+        "psfNow": 379
+      },
+      {
+        "name": "Seberang Perai Selatan",
+        "psfNow": 374
+      },
+      {
+        "name": "Seberang Perai Utara",
+        "psfNow": 342
+      }
+    ],
+    "Sabah": [
+      {
+        "name": "Penampang",
+        "psfNow": 575
+      },
+      {
+        "name": "Kota Kinabalu",
+        "psfNow": 548
+      },
+      {
+        "name": "Putatan",
+        "psfNow": 509
+      },
+      {
+        "name": "Tambunan",
+        "psfNow": 424
+      },
+      {
+        "name": "Tuaran",
+        "psfNow": 410
+      },
+      {
+        "name": "Papar",
+        "psfNow": 381
+      },
+      {
+        "name": "Ranau",
+        "psfNow": 374
+      },
+      {
+        "name": "Lahad Datu",
+        "psfNow": 360
+      },
+      {
+        "name": "Tawau",
+        "psfNow": 358
+      },
+      {
+        "name": "Kudat",
+        "psfNow": 349
+      },
+      {
+        "name": "Semporna",
+        "psfNow": 342
+      },
+      {
+        "name": "Kota Belud",
+        "psfNow": 339
+      },
+      {
+        "name": "Kota Marudu",
+        "psfNow": 339
+      },
+      {
+        "name": "Sipitang",
+        "psfNow": 339
+      },
+      {
+        "name": "Keningau",
+        "psfNow": 338
+      },
+      {
+        "name": "Beluran",
+        "psfNow": 338
+      },
+      {
+        "name": "Pitas",
+        "psfNow": 330
+      },
+      {
+        "name": "Sandakan",
+        "psfNow": 330
+      },
+      {
+        "name": "Kunak",
+        "psfNow": 312
+      },
+      {
+        "name": "Beaufort",
+        "psfNow": 310
+      },
+      {
+        "name": "Tenom",
+        "psfNow": 308
+      }
+    ],
+    "Sarawak": [
+      {
+        "name": "Bahagian Kuching",
+        "psfNow": 408
+      },
+      {
+        "name": "Bahagian Samarahan",
+        "psfNow": 397
+      },
+      {
+        "name": "Bahagian Miri",
+        "psfNow": 393
+      },
+      {
+        "name": "Bahagian Bintulu",
+        "psfNow": 386
+      },
+      {
+        "name": "Bahagian Kapit",
+        "psfNow": 334
+      },
+      {
+        "name": "Bahagian Serian",
+        "psfNow": 309
+      },
+      {
+        "name": "Bahagian Sibu",
+        "psfNow": 308
+      },
+      {
+        "name": "Bahagian Mukah",
+        "psfNow": 299
+      },
+      {
+        "name": "Bahagian Sri Aman",
+        "psfNow": 267
+      },
+      {
+        "name": "Bahagian Betong",
+        "psfNow": 261
+      },
+      {
+        "name": "Bahagian Limbang",
+        "psfNow": 260
+      },
+      {
+        "name": "Bahagian Sarikei",
+        "psfNow": 249
+      }
+    ],
+    "Selangor": [
+      {
+        "name": "Petaling",
+        "psfNow": 578
+      },
+      {
+        "name": "Hulu Langat",
+        "psfNow": 453
+      },
+      {
+        "name": "Klang",
+        "psfNow": 447
+      },
+      {
+        "name": "Sepang",
+        "psfNow": 441
+      },
+      {
+        "name": "Gombak",
+        "psfNow": 433
+      },
+      {
+        "name": "Kuala Langat",
+        "psfNow": 408
+      },
+      {
+        "name": "Kuala Selangor",
+        "psfNow": 379
+      },
+      {
+        "name": "Hulu Selangor",
+        "psfNow": 325
+      },
+      {
+        "name": "Sabak Bernam",
+        "psfNow": 308
+      }
+    ],
+    "Terengganu": [
+      {
+        "name": "Kuala Nerus",
+        "psfNow": 332
+      },
+      {
+        "name": "Dungun",
+        "psfNow": 316
+      },
+      {
+        "name": "Kuala Terengganu",
+        "psfNow": 315
+      },
+      {
+        "name": "Marang",
+        "psfNow": 311
+      },
+      {
+        "name": "Besut",
+        "psfNow": 287
+      },
+      {
+        "name": "Kemaman",
+        "psfNow": 277
+      },
+      {
+        "name": "Hulu Terengganu",
+        "psfNow": 266
+      },
+      {
+        "name": "Setiu",
+        "psfNow": 251
+      }
+    ],
+    "WP Kuala Lumpur": [
+      {
+        "name": "Kuala Lumpur",
+        "psfNow": 643
+      }
+    ],
+    "WP Labuan": [
+      {
+        "name": "Labuan",
+        "psfNow": 413
+      }
+    ],
+    "WP Putrajaya": [
+      {
+        "name": "Putrajaya",
+        "psfNow": 601
+      }
+    ]
+  },
+  "Commercial": {
+    "Johor": [
+      {
+        "name": "Johor Bahru",
+        "psfNow": 328
+      },
+      {
+        "name": "Muar",
+        "psfNow": 260
+      },
+      {
+        "name": "Pontian",
+        "psfNow": 232
+      },
+      {
+        "name": "Kota Tinggi",
+        "psfNow": 221
+      },
+      {
+        "name": "Kulai",
+        "psfNow": 219
+      },
+      {
+        "name": "Batu Pahat",
+        "psfNow": 205
+      },
+      {
+        "name": "Mersing",
+        "psfNow": 194
+      },
+      {
+        "name": "Kluang",
+        "psfNow": 182
+      },
+      {
+        "name": "Tangkak",
+        "psfNow": 176
+      },
+      {
+        "name": "Segamat",
+        "psfNow": 172
+      }
+    ],
+    "Kedah": [
+      {
+        "name": "Langkawi",
+        "psfNow": 389
+      },
+      {
+        "name": "Pendang",
+        "psfNow": 239
+      },
+      {
+        "name": "Baling",
+        "psfNow": 238
+      },
+      {
+        "name": "Padang Terap",
+        "psfNow": 225
+      },
+      {
+        "name": "Kubang Pasu",
+        "psfNow": 221
+      },
+      {
+        "name": "Pokok Sena",
+        "psfNow": 216
+      },
+      {
+        "name": "Kota Setar",
+        "psfNow": 214
+      },
+      {
+        "name": "Yan",
+        "psfNow": 211
+      },
+      {
+        "name": "Sik",
+        "psfNow": 203
+      },
+      {
+        "name": "Kuala Muda",
+        "psfNow": 196
+      },
+      {
+        "name": "Kulim",
+        "psfNow": 189
+      },
+      {
+        "name": "Bandar Baru",
+        "psfNow": 184
+      }
+    ],
+    "Kelantan": [
+      {
+        "name": "Kota Bahru",
+        "psfNow": 280
+      },
+      {
+        "name": "Machang",
+        "psfNow": 274
+      },
+      {
+        "name": "Tumpat",
+        "psfNow": 230
+      },
+      {
+        "name": "Jeli",
+        "psfNow": 214
+      },
+      {
+        "name": "Bachok",
+        "psfNow": 213
+      },
+      {
+        "name": "Pasir Puteh",
+        "psfNow": 204
+      },
+      {
+        "name": "Gua Musang",
+        "psfNow": 196
+      },
+      {
+        "name": "Kuala Krai",
+        "psfNow": 170
+      },
+      {
+        "name": "Pasir Mas",
+        "psfNow": 169
+      },
+      {
+        "name": "Tanah Merah",
+        "psfNow": 163
+      }
+    ],
+    "Melaka": [
+      {
+        "name": "Melaka Tengah",
+        "psfNow": 211
+      },
+      {
+        "name": "Jasin",
+        "psfNow": 207
+      },
+      {
+        "name": "Alor Gajah",
+        "psfNow": 192
+      }
+    ],
+    "Negeri Sembilan": [
+      {
+        "name": "Seremban",
+        "psfNow": 242
+      },
+      {
+        "name": "Jempol",
+        "psfNow": 205
+      },
+      {
+        "name": "Rembau",
+        "psfNow": 187
+      },
+      {
+        "name": "Port Dickson",
+        "psfNow": 177
+      },
+      {
+        "name": "Tampin",
+        "psfNow": 175
+      },
+      {
+        "name": "Jelebu",
+        "psfNow": 174
+      },
+      {
+        "name": "Kuala Pilah",
+        "psfNow": 151
+      }
+    ],
+    "Pahang": [
+      {
+        "name": "Cameron Highland",
+        "psfNow": 368
+      },
+      {
+        "name": "Maran",
+        "psfNow": 286
+      },
+      {
+        "name": "Bentong",
+        "psfNow": 279
+      },
+      {
+        "name": "Raub",
+        "psfNow": 267
+      },
+      {
+        "name": "Kuantan",
+        "psfNow": 259
+      },
+      {
+        "name": "Pekan",
+        "psfNow": 241
+      },
+      {
+        "name": "Lipis",
+        "psfNow": 223
+      },
+      {
+        "name": "Jerantut",
+        "psfNow": 222
+      },
+      {
+        "name": "Temerloh",
+        "psfNow": 211
+      },
+      {
+        "name": "Rompin",
+        "psfNow": 192
+      },
+      {
+        "name": "Bera",
+        "psfNow": 172
+      }
+    ],
+    "Perak": [
+      {
+        "name": "Selama",
+        "psfNow": 221
+      },
+      {
+        "name": "Hilir Perak",
+        "psfNow": 216
+      },
+      {
+        "name": "Batang Padang",
+        "psfNow": 211
+      },
+      {
+        "name": "Muallim",
+        "psfNow": 206
+      },
+      {
+        "name": "Kinta",
+        "psfNow": 205
+      },
+      {
+        "name": "Kerian",
+        "psfNow": 204
+      },
+      {
+        "name": "Larut Matang",
+        "psfNow": 200
+      },
+      {
+        "name": "Bagan Datuk",
+        "psfNow": 194
+      },
+      {
+        "name": "Manjung",
+        "psfNow": 192
+      },
+      {
+        "name": "Perak Tengah",
+        "psfNow": 172
+      },
+      {
+        "name": "Hulu Perak",
+        "psfNow": 167
+      },
+      {
+        "name": "Kuala Kangsar",
+        "psfNow": 155
+      },
+      {
+        "name": "Kampar",
+        "psfNow": 145
+      }
+    ],
+    "Perlis": [
+      {
+        "name": "Perlis",
+        "psfNow": 233
+      }
+    ],
+    "Pulau Pinang": [
+      {
+        "name": "Timur Laut",
+        "psfNow": 558
+      },
+      {
+        "name": "Barat Daya",
+        "psfNow": 556
+      },
+      {
+        "name": "Seberang Perai Utara",
+        "psfNow": 268
+      },
+      {
+        "name": "Seberang Perai Tengah",
+        "psfNow": 255
+      },
+      {
+        "name": "Seberang Perai Selatan",
+        "psfNow": 232
+      }
+    ],
+    "Sabah": [
+      {
+        "name": "Kota Kinabalu",
+        "psfNow": 543
+      },
+      {
+        "name": "Penampang",
+        "psfNow": 476
+      },
+      {
+        "name": "Kinabatangan",
+        "psfNow": 411
+      },
+      {
+        "name": "Sipitang",
+        "psfNow": 396
+      },
+      {
+        "name": "Beluran",
+        "psfNow": 383
+      },
+      {
+        "name": "Ranau",
+        "psfNow": 380
+      },
+      {
+        "name": "Sandakan",
+        "psfNow": 377
+      },
+      {
+        "name": "Semporna",
+        "psfNow": 376
+      },
+      {
+        "name": "Kunak",
+        "psfNow": 367
+      },
+      {
+        "name": "Putatan",
+        "psfNow": 361
+      },
+      {
+        "name": "Keningau",
+        "psfNow": 350
+      },
+      {
+        "name": "Tenom",
+        "psfNow": 347
+      },
+      {
+        "name": "Kuala Penyu",
+        "psfNow": 346
+      },
+      {
+        "name": "Papar",
+        "psfNow": 338
+      },
+      {
+        "name": "Tambunan",
+        "psfNow": 335
+      },
+      {
+        "name": "Nabawan",
+        "psfNow": 328
+      },
+      {
+        "name": "Kota Belud",
+        "psfNow": 325
+      },
+      {
+        "name": "Tawau",
+        "psfNow": 316
+      },
+      {
+        "name": "Kota Marudu",
+        "psfNow": 308
+      },
+      {
+        "name": "Tuaran",
+        "psfNow": 304
+      },
+      {
+        "name": "Kudat",
+        "psfNow": 282
+      },
+      {
+        "name": "Beaufort",
+        "psfNow": 270
+      },
+      {
+        "name": "Lahad Datu",
+        "psfNow": 263
+      }
+    ],
+    "Sarawak": [
+      {
+        "name": "Bahagian Kuching",
+        "psfNow": 319
+      },
+      {
+        "name": "Bahagian Bintulu",
+        "psfNow": 313
+      },
+      {
+        "name": "Bahagian Miri",
+        "psfNow": 303
+      },
+      {
+        "name": "Bahagian Kapit",
+        "psfNow": 293
+      },
+      {
+        "name": "Bahagian Limbang",
+        "psfNow": 282
+      },
+      {
+        "name": "Bahagian Sri Aman",
+        "psfNow": 271
+      },
+      {
+        "name": "Bahagian Serian",
+        "psfNow": 269
+      },
+      {
+        "name": "Bahagian Sibu",
+        "psfNow": 262
+      },
+      {
+        "name": "Bahagian Betong",
+        "psfNow": 231
+      },
+      {
+        "name": "Bahagian Mukah",
+        "psfNow": 228
+      },
+      {
+        "name": "Bahagian Sarikei",
+        "psfNow": 215
+      },
+      {
+        "name": "Bahagian Samarahan",
+        "psfNow": 213
+      }
+    ],
+    "Selangor": [
+      {
+        "name": "Petaling",
+        "psfNow": 511
+      },
+      {
+        "name": "Sepang",
+        "psfNow": 488
+      },
+      {
+        "name": "Hulu Langat",
+        "psfNow": 391
+      },
+      {
+        "name": "Gombak",
+        "psfNow": 386
+      },
+      {
+        "name": "Klang",
+        "psfNow": 318
+      },
+      {
+        "name": "Kuala Langat",
+        "psfNow": 312
+      },
+      {
+        "name": "Kuala Selangor",
+        "psfNow": 291
+      },
+      {
+        "name": "Sabak Bernam",
+        "psfNow": 213
+      },
+      {
+        "name": "Hulu Selangor",
+        "psfNow": 184
+      }
+    ],
+    "Terengganu": [
+      {
+        "name": "Kuala Terengganu",
+        "psfNow": 298
+      },
+      {
+        "name": "Kuala Nerus",
+        "psfNow": 267
+      },
+      {
+        "name": "Dungun",
+        "psfNow": 242
+      },
+      {
+        "name": "Hulu Terengganu",
+        "psfNow": 235
+      },
+      {
+        "name": "Setiu",
+        "psfNow": 222
+      },
+      {
+        "name": "Kemaman",
+        "psfNow": 215
+      },
+      {
+        "name": "Marang",
+        "psfNow": 206
+      },
+      {
+        "name": "Besut",
+        "psfNow": 190
+      }
+    ],
+    "WP Kuala Lumpur": [
+      {
+        "name": "Kuala Lumpur",
+        "psfNow": 679
+      }
+    ],
+    "WP Labuan": [
+      {
+        "name": "Labuan",
+        "psfNow": 459
+      }
+    ],
+    "WP Putrajaya": [
+      {
+        "name": "Putrajaya",
+        "psfNow": 714
+      }
+    ]
+  },
+  "Industrial": {
+    "Johor": [
+      {
+        "name": "Muar",
+        "psfNow": 803
+      },
+      {
+        "name": "Johor Bahru",
+        "psfNow": 618
+      },
+      {
+        "name": "Kulai",
+        "psfNow": 540
+      },
+      {
+        "name": "Mersing",
+        "psfNow": 401
+      },
+      {
+        "name": "Pontian",
+        "psfNow": 352
+      },
+      {
+        "name": "Batu Pahat",
+        "psfNow": 215
+      },
+      {
+        "name": "Kota Tinggi",
+        "psfNow": 202
+      },
+      {
+        "name": "Tangkak",
+        "psfNow": 188
+      },
+      {
+        "name": "Segamat",
+        "psfNow": 187
+      },
+      {
+        "name": "Kluang",
+        "psfNow": 162
+      }
+    ],
+    "Kedah": [
+      {
+        "name": "Kubang Pasu",
+        "psfNow": 661
+      },
+      {
+        "name": "Baling",
+        "psfNow": 646
+      },
+      {
+        "name": "Kulim",
+        "psfNow": 289
+      },
+      {
+        "name": "Kuala Muda",
+        "psfNow": 262
+      },
+      {
+        "name": "Kota Setar",
+        "psfNow": 220
+      }
+    ],
+    "Kelantan": [
+      {
+        "name": "Kota Bahru",
+        "psfNow": 247
+      },
+      {
+        "name": "Gua Musang",
+        "psfNow": 209
+      }
+    ],
+    "Melaka": [
+      {
+        "name": "Jasin",
+        "psfNow": 267
+      },
+      {
+        "name": "Melaka Tengah",
+        "psfNow": 264
+      },
+      {
+        "name": "Alor Gajah",
+        "psfNow": 253
+      }
+    ],
+    "Negeri Sembilan": [
+      {
+        "name": "Jempol",
+        "psfNow": 272
+      },
+      {
+        "name": "Seremban",
+        "psfNow": 263
+      },
+      {
+        "name": "Tampin",
+        "psfNow": 246
+      },
+      {
+        "name": "Kuala Pilah",
+        "psfNow": 227
+      },
+      {
+        "name": "Port Dickson",
+        "psfNow": 159
+      }
+    ],
+    "Pahang": [
+      {
+        "name": "Pekan",
+        "psfNow": 624
+      },
+      {
+        "name": "Raub",
+        "psfNow": 291
+      },
+      {
+        "name": "Bentong",
+        "psfNow": 288
+      },
+      {
+        "name": "Kuantan",
+        "psfNow": 233
+      },
+      {
+        "name": "Lipis",
+        "psfNow": 192
+      },
+      {
+        "name": "Jerantut",
+        "psfNow": 174
+      },
+      {
+        "name": "Temerloh",
+        "psfNow": 155
+      },
+      {
+        "name": "Rompin",
+        "psfNow": 151
+      }
+    ],
+    "Perak": [
+      {
+        "name": "Manjung",
+        "psfNow": 547
+      },
+      {
+        "name": "Bagan Datuk",
+        "psfNow": 254
+      },
+      {
+        "name": "Kuala Kangsar",
+        "psfNow": 238
+      },
+      {
+        "name": "Batang Padang",
+        "psfNow": 234
+      },
+      {
+        "name": "Kinta",
+        "psfNow": 229
+      },
+      {
+        "name": "Hulu Perak",
+        "psfNow": 223
+      },
+      {
+        "name": "Larut Matang",
+        "psfNow": 211
+      },
+      {
+        "name": "Hilir Perak",
+        "psfNow": 201
+      },
+      {
+        "name": "Kampar",
+        "psfNow": 197
+      },
+      {
+        "name": "Kerian",
+        "psfNow": 173
+      },
+      {
+        "name": "Muallim",
+        "psfNow": 120
+      }
+    ],
+    "Perlis": [
+      {
+        "name": "Perlis",
+        "psfNow": 274
+      }
+    ],
+    "Pulau Pinang": [
+      {
+        "name": "Barat Daya",
+        "psfNow": 785
+      },
+      {
+        "name": "Seberang Perai Selatan",
+        "psfNow": 631
+      },
+      {
+        "name": "Timur Laut",
+        "psfNow": 559
+      },
+      {
+        "name": "Seberang Perai Utara",
+        "psfNow": 421
+      },
+      {
+        "name": "Seberang Perai Tengah",
+        "psfNow": 409
+      }
+    ],
+    "Sabah": [
+      {
+        "name": "Putatan",
+        "psfNow": 1649
+      },
+      {
+        "name": "Kota Kinabalu",
+        "psfNow": 568
+      },
+      {
+        "name": "Papar",
+        "psfNow": 547
+      },
+      {
+        "name": "Penampang",
+        "psfNow": 519
+      },
+      {
+        "name": "Tuaran",
+        "psfNow": 457
+      },
+      {
+        "name": "Sandakan",
+        "psfNow": 392
+      },
+      {
+        "name": "Keningau",
+        "psfNow": 388
+      },
+      {
+        "name": "Tawau",
+        "psfNow": 378
+      },
+      {
+        "name": "Lahad Datu",
+        "psfNow": 273
+      }
+    ],
+    "Sarawak": [
+      {
+        "name": "Bahagian Bintulu",
+        "psfNow": 1030
+      },
+      {
+        "name": "Bahagian Mukah",
+        "psfNow": 619
+      },
+      {
+        "name": "Bahagian Limbang",
+        "psfNow": 543
+      },
+      {
+        "name": "Bahagian Sri Aman",
+        "psfNow": 514
+      },
+      {
+        "name": "Bahagian Samarahan",
+        "psfNow": 506
+      },
+      {
+        "name": "Bahagian Sibu",
+        "psfNow": 467
+      },
+      {
+        "name": "Bahagian Serian",
+        "psfNow": 438
+      },
+      {
+        "name": "Bahagian Miri",
+        "psfNow": 415
+      },
+      {
+        "name": "Bahagian Kuching",
+        "psfNow": 357
+      },
+      {
+        "name": "Bahagian Sarikei",
+        "psfNow": 162
+      }
+    ],
+    "Selangor": [
+      {
+        "name": "Gombak",
+        "psfNow": 684
+      },
+      {
+        "name": "Petaling",
+        "psfNow": 629
+      },
+      {
+        "name": "Sepang",
+        "psfNow": 615
+      },
+      {
+        "name": "Kuala Selangor",
+        "psfNow": 566
+      },
+      {
+        "name": "Hulu Langat",
+        "psfNow": 564
+      },
+      {
+        "name": "Klang",
+        "psfNow": 465
+      },
+      {
+        "name": "Kuala Langat",
+        "psfNow": 401
+      },
+      {
+        "name": "Sabak Bernam",
+        "psfNow": 311
+      },
+      {
+        "name": "Hulu Selangor",
+        "psfNow": 117
+      }
+    ],
+    "Terengganu": [
+      {
+        "name": "Kuala Nerus",
+        "psfNow": 363
+      },
+      {
+        "name": "Kemaman",
+        "psfNow": 269
+      },
+      {
+        "name": "Kuala Terengganu",
+        "psfNow": 219
+      },
+      {
+        "name": "Dungun",
+        "psfNow": 195
+      }
+    ],
+    "WP Kuala Lumpur": [
+      {
+        "name": "Kuala Lumpur",
+        "psfNow": 670
+      }
+    ],
+    "WP Labuan": [
+      {
+        "name": "Labuan",
+        "psfNow": 450
+      }
+    ],
+    "WP Putrajaya": [
+      {
+        "name": "Putrajaya",
+        "psfNow": 596
+      }
+    ]
+  }
+}
