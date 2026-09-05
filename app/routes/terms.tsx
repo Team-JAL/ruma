@@ -54,6 +54,9 @@ const EnglishContent = () => (
     <p>
       Information you submit to us (including when creating an account) must be accurate and kept up to date. You are responsible for keeping your login credentials confidential and for all activity that takes place under your account. Notify us promptly at <a href="mailto:inbox@ajile.team">inbox@ajile.team</a> if you believe your account has been accessed without your authorisation.
     </p>
+    <p>
+      <strong>Sign in with Google.</strong> If you create or access your account using "Sign in with Google", we receive the limited Google Account data described in Section 4 of our <Link to="/privacy">Privacy Policy</Link>. Ruma.casa's use and transfer of information received from Google APIs to any other app will adhere to the <a href="https://developers.google.com/terms/api-services-user-data-policy" target="_blank" rel="noopener noreferrer">Google API Services User Data Policy</a>, including the Limited Use requirements. You may revoke our access at any time at <a href="https://myaccount.google.com/permissions" target="_blank" rel="noopener noreferrer">myaccount.google.com/permissions</a>.
+    </p>
 
     <h2>6. Subscriptions, fees, and refunds</h2>
 
@@ -194,6 +197,9 @@ const BahasaContent = () => (
     <h2>5. Akaun</h2>
     <p>
       Maklumat yang anda kemukakan kepada kami (termasuk semasa membuka akaun) mestilah tepat dan sentiasa dikemas kini. Anda bertanggungjawab untuk merahsiakan maklumat log masuk anda dan bagi semua aktiviti yang berlaku di bawah akaun anda. Sila maklumkan kepada kami dengan segera di <a href="mailto:inbox@ajile.team">inbox@ajile.team</a> sekiranya anda percaya akaun anda telah diakses tanpa kebenaran anda.
+    </p>
+    <p>
+      <strong>Log masuk dengan Google.</strong> Sekiranya anda membuka atau mengakses akaun anda menggunakan "Log masuk dengan Google", kami menerima data Akaun Google yang terhad seperti yang diterangkan dalam Seksyen 4 <Link to="/privacy">Dasar Privasi</Link> kami. Penggunaan dan pemindahan maklumat yang diterima oleh Ruma.casa daripada API Google kepada mana-mana aplikasi lain akan mematuhi <a href="https://developers.google.com/terms/api-services-user-data-policy" target="_blank" rel="noopener noreferrer">Dasar Data Pengguna Perkhidmatan API Google</a>, termasuk keperluan Penggunaan Terhad (Limited Use). Anda boleh menarik balik akses kami pada bila-bila masa di <a href="https://myaccount.google.com/permissions" target="_blank" rel="noopener noreferrer">myaccount.google.com/permissions</a>.
     </p>
 
     <h2>6. Langganan, yuran, dan bayaran balik</h2>

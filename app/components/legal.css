@@ -104,6 +104,11 @@
   margin-bottom: 1rem;
 }
 .legal-content ul li { margin-bottom: 0.4rem; }
+.legal-content ul ul {
+  list-style: circle;
+  margin-top: 0.4rem;
+  margin-bottom: 0;
+}
 .legal-content strong { color: var(--ink); font-weight: 600; }
 .legal-content a {
   color: var(--accent);
