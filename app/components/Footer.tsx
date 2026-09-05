@@ -23,7 +23,6 @@ const Footer = () => {
           <h6>Company</h6>
           <ul>
             <li><a href="mailto:inbox@ajile.team">Contact</a></li>
-            <li><Link to="/waitlist">Waitlist</Link></li>
             <li><a href="#">Roadmap</a></li>
             <li><a href="#">Changelog</a></li>
           </ul>

@@ -1,4 +1,3 @@
-import { Link } from "react-router";
 import { useReveal } from "../hooks";
 import { pricingTiers } from "../data";
 import "./pricing.css";
@@ -10,7 +9,7 @@ const Pricing = () => {
       <div className="pricing-head">
         <span className="r-eyebrow">Pricing</span>
         <h2>Free to start. <em>Pay only when you scale.</em></h2>
-        <p>No credit card needed to join.</p>
+        <p>Starter is free forever. Pro comes with a 1-month free trial.</p>
       </div>
       <div className="pricing-grid">
         {pricingTiers.map((t) => (
@@ -25,7 +24,7 @@ const Pricing = () => {
             <ul className="tier-features">
               {t.features.map((f) => <li key={f}>{f}</li>)}
             </ul>
-            <Link to="/waitlist" className="r-btn">{t.cta} <span className="r-arrow">↗</span></Link>
+            <a href="https://app.ruma.casa" className="r-btn">{t.cta} <span className="r-arrow">↗</span></a>
           </article>
         ))}
       </div>

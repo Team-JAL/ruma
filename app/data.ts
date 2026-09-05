@@ -123,12 +123,12 @@ export const pricingTiers: PricingTier[] = [
       "Compare properties side by side",
       "Base mortgage, legal, and stamp-duty calculators",
     ],
-    cta: "Join the waitlist",
+    cta: "Start for free",
     primary: false,
   },
   {
     name: "Pro",
-    price: "RM 27.99",
+    price: "RM 19.99",
     cadence: "/ month",
     desc: "For active investors and agents running multiple deals at once.",
     features: [
@@ -139,7 +139,7 @@ export const pricingTiers: PricingTier[] = [
       "Import from Listing — auto-fill from text or screenshots",
       "Early access to new features",
     ],
-    cta: "Join the waitlist",
+    cta: "Start your free trial",
     primary: true,
   },
 ];
@@ -172,5 +172,4 @@ export const navLinks: NavLink[] = [
   { label: "Preview", href: "/#walkthrough" },
   { label: "Pricing", href: "/#pricing" },
   { label: "FAQ", href: "/#faq" },
-  { label: "Waitlist", href: "/waitlist" },
 ];

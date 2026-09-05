@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import { Link } from "react-router";
 import TopNav from "./TopNav";
 import "./hero.css";
 
@@ -164,9 +163,9 @@ const Hero = () => {
             that wins on yield & KPIs — without spreadsheets. Built for Malaysian investors, and real estate agents.
           </p>
           <div className="hero-actions">
-            <Link to="/waitlist" className="r-btn r-btn-primary">
-              Join the waitlist <span className="r-arrow">↗</span>
-            </Link>
+            <a href="https://app.ruma.casa" className="r-btn r-btn-primary">
+              Launch app <span className="r-arrow">↗</span>
+            </a>
             <a href="#walkthrough" className="r-btn r-btn-secondary">
               See a preview
             </a>
