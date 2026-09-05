@@ -158,8 +158,8 @@ export const faqs: Faq[] = [
     a: "Spreadsheets are flexible but brittle. Ruma is a workflow: changes ripple through cashflow, repayment, and risk views automatically, and you can compare & visualize entire scenarios, not just cells, side by side.",
   },
   {
-    q: "When does Ruma launch?",
-    a: "We're targeting a public launch in July 2026. Early access signups get the first invites.",
+    q: "Is Ruma available to use now?",
+    a: "Yes. Ruma is live in beta at app.ruma.casa. Create a free Starter account and you can model a property straight away; Pro unlocks unlimited saved properties, Scenario Lab, Auction Lab, and listing import. We ship improvements continuously and read every piece of feedback sent to inbox@ajile.team.",
   },
   {
     q: "Who's behind Ruma?",

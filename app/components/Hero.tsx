@@ -153,7 +153,7 @@ const Hero = () => {
         <div className="hero-copy">
           <span className="hero-eyebrow">
             <span className="hero-eyebrow-dot" />
-            Launching soon · Malaysia
+            Live in beta · Malaysia
           </span>
           <h1 className="hero-headline">
             Compare, calculate, and <em>close smarter.</em>

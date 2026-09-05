@@ -13,7 +13,6 @@ const items: MetricItem[] = [
   { num: 5, suffix: " min", label: "to model a property end-to-end" },
   { num: 18, prefix: "RM ", suffix: "k", label: "average closing-cost surprises caught" },
   { num: 12.4, suffix: "%", decimals: 1, label: "median ROI lift on the best-fit scenario" },
-  { num: 1400, suffix: "+", label: "investors and agents on the waitlist" },
 ];
 
 const Metric = ({ item }: { item: MetricItem }) => {
